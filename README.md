@@ -108,13 +108,18 @@ Texto del primer apartado
 2.  Configura  tu Dispositivo  Movil(Fisic Device )
 Texto del segundo apartado
 
-
+------------------------------------------
 
 
 
 <div id='id2.1' />
 2.1. Configura  tu Dispositivo  Movil(Dispositivo Fisico )
 Texto del segundo apartado
+
+
+
+---------------------------------
+
 
 
 
