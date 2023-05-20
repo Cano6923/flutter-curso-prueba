@@ -60,19 +60,18 @@ Flutter (SDK) Web Oficial
 ------
 
 
-<div id='id1.1' />
-1.0 Flutter (SDK) Install & Config setup
-Texto del primer apartado
+
 
 
 <div id='id1.2' />
-2.0  Chocolatey (Pacakage Managmet)
+2.  Chocolatey (Pacakage Managmet)
 Texto del primer apartado
 
 
 
 <div id='id1.1.3' />
-3.0 Android Studio & Setup
+3.
+4.  Android Studio & Setup
 Texto del primer apartado
 
 
