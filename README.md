@@ -1,45 +1,19 @@
 
-
-
-
-
 # Windows 10 Installacion y codnfiguracion 
 
 -----
 
-**Windows 10 (Install )**  
-
-1. [Flutter (SDK) Install & Config setup](#id1)
-	* Flutter (SDK)
-	* Chocolatey  (Flutter)
-	* Android Studio (Flutter)
-
-   
-2. [IDE  Setup Android Studio (Flutter )](#id2)
-	* Android Studio  ( Flutter - SDK)
-
-3 . [IDE  Setup Android Studio (Flutter )](#id2)
-	* Android Studio  ( Flutter - SDK)
 
 
-
-## Primer apartado<a name="id1"></a>
-Texto del primer apartado
-## Segundo apartado<a name="id2"></a>
-Texto del segundo apartado
-
-
-
----
 **Windows 10(Flutter)**
 
 1. [Flutter (SDK) Install & Config setup](#id1)
-	1.1 [Flutter (SDK) Web Oficial](#id1.1)
-	1.2 [Chooclatey (Pacakage Managment) terminal comand ](#id1.2)
-	1.3 [Android Studio (IDE) ](#id1.3)
+	[1.1 Flutter (SDK) Web Oficial](#id1.1)
+	[1.2 Chooclatey (Pacakage Managment) terminal comand ](#id1.2)
+	[1.3 Android Studio (IDE) ](#id1.3)
 2. [Configura  tu Dispositivo  Movil](#id2)
-	2.1 	[Dispositivo Fisico](#id2.1)
-	2.2 	[Dispositivo Emulador](#id2.2)
+	[2.1 	Dispositivo Fisico](#id2.1)
+	[2.2 	Dispositivo Emulador](#id2.2)
 3. [Vs Code Install & setup](#id3)
 
 4. [DevTools ](#id3)
