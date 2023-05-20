@@ -15,8 +15,8 @@
 2. [Configura tu Dispositivo Movil](#id2)
 	* 2.1 [Dispositivo Fisico](#id2.1)
 	* 2.2 [Dispositivo Emulador](#id2.2)
-3. [Vs Code Install & setup](#id3)
-
+3. [Vs Code Instalacion config](#id3)
+ 	* 3.1 [Extensiones & setup ](#id3.1)
 4. [DevTools ](#id3)
 
 
