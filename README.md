@@ -57,7 +57,7 @@ Flutter (SDK) Web Oficial
    - Ejecuta el comando "flutter doctor" para verificar que Flutter esté instalado correctamente y no falte ninguna dependencia.
    - Si hay problemas, el comando "flutter doctor" te proporcionará instrucciones para solucionarlos.
 
-------
+---------------
 
 
 
@@ -66,6 +66,11 @@ Flutter (SDK) Web Oficial
 <div id='id1.2' />
 1.2.   Chocolatey (Pacakage Managmet)
 Texto del primer apartado
+
+
+
+
+---------------------------
 
 
 
