@@ -115,21 +115,18 @@ Texto del segundo apartado
 
 
 <div id='id2.1' />
-2.1. Configura  tu Dispositivo  Movil(Dispositivo Fisico )
+2.1 Configura  tu Dispositivo  Movil(Dispositivo Fisico )
 Texto del segundo apartado
 
-
-
----------------------------------
 
 
 
 
 <div id='id2.2' />
-2.2. Configura  tu Dispositivo  Movil(Dispoisitvo emulado )
+2.2 Configura  tu Dispositivo  Movil(Dispoisitvo emulado )
 Texto del segundo apartado
 
---------------------------------------------
+
 
 
 
