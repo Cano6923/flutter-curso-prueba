@@ -97,21 +97,21 @@ Texto del primer apartado
 
 
 <div id='id2' />
-## Configura  tu Dispositivo  Movil(Fisic Device )
-Texto del segundo apartado
+## Configura  tu Dispositivo  Movil Fisic Device 
+Texto del segundo apartad
 
 
 
 
 
 <div id='id2.1' />
-## Configura  tu Dispositivo  Movil(Dispositivo Fisico )
+## Configura  tu Dispositivo  Movil Dispositivo Fisico 
 Texto del segundo apartado
 
 
 
 <div id='id2.2' />
-## Configura  tu Dispositivo  Movil(Dispoisitvo emulado )
+## Configura  tu Dispositivo  Movil Dispoisitvo emulado 
 Texto del segundo apartado
 
 --------------------------------------------
@@ -120,7 +120,7 @@ Texto del segundo apartado
 
 
 <div id='id3.0' />
-## Configura  tu Dispositivo Movil(Emulador Device )
+## Configura  tu Dispositivo Movil Emulador Device
 Texto del segundo apartado
 
 
@@ -129,8 +129,7 @@ Texto del segundo apartado
 
 
 <div id='id4.0' />
-## DevTools Command Line (CMD or Powershell )
-
+## DevTools Command Line CMD or Powershell 
 Texto del segundo apartado
 
 
