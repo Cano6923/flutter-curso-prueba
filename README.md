@@ -25,8 +25,7 @@
 
 <div id='id1' />
 ## Flutter (SDK) Web Oficial
-Texto del primer apartado
-
+Flutter (SDK) Web Oficial
 
 1. Descargar Flutter:
    - Visita el sitio web oficial de Flutter en https://flutter.dev.
