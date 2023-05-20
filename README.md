@@ -23,7 +23,6 @@
 --------------------------------------------
 
 
-
 <div id='id1' />
 ## Flutter (SDK) Web Oficial
 Texto del primer apartado
@@ -59,20 +58,22 @@ Texto del primer apartado
    - Ejecuta el comando "flutter doctor" para verificar que Flutter esté instalado correctamente y no falte ninguna dependencia.
    - Si hay problemas, el comando "flutter doctor" te proporcionará instrucciones para solucionarlos.
 
+------
+
 
 <div id='id1.1' />
-## Flutter (SDK) Install & Config setup
+1.0 Flutter (SDK) Install & Config setup
 Texto del primer apartado
 
 
 <div id='id1.2' />
-## Chocolatey (Pacakage Managmet)
+2.0  Chocolatey (Pacakage Managmet)
 Texto del primer apartado
 
 
 
 <div id='id1.1.3' />
-## Android Studio & Setup
+3.0 Android Studio & Setup
 Texto del primer apartado
 
 
@@ -97,21 +98,21 @@ Texto del primer apartado
 
 
 <div id='id2' />
-## Configura  tu Dispositivo  Movil Fisic Device 
-Texto del segundo apartad
+2.0 Configura  tu Dispositivo  Movil(Fisic Device )
+Texto del segundo apartado
 
 
 
 
 
 <div id='id2.1' />
-## Configura  tu Dispositivo  Movil Dispositivo Fisico 
+2.1 Configura  tu Dispositivo  Movil(Dispositivo Fisico )
 Texto del segundo apartado
 
 
 
 <div id='id2.2' />
-## Configura  tu Dispositivo  Movil Dispoisitvo emulado 
+2.2 Configura  tu Dispositivo  Movil(Dispoisitvo emulado )
 Texto del segundo apartado
 
 --------------------------------------------
@@ -120,7 +121,7 @@ Texto del segundo apartado
 
 
 <div id='id3.0' />
-## Configura  tu Dispositivo Movil Emulador Device
+3.0 Configura  tu Dispositivo Movil(Emulador Device )
 Texto del segundo apartado
 
 
@@ -129,7 +130,8 @@ Texto del segundo apartado
 
 
 <div id='id4.0' />
-## DevTools Command Line CMD or Powershell 
+3.0 DevTools Command Line (CMD or Powershell )
+
 Texto del segundo apartado
 
 
@@ -141,20 +143,3 @@ Texto del segundo apartado
 
 
 
-
-
-
---------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
---------------------------------------------
