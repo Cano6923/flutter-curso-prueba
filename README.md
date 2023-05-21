@@ -8,7 +8,7 @@
 
 **Windows 10(Flutter)**
 
-1. [Flutter (SDK) Install & Config setup](#id1)
+- [Flutter (SDK) Install & Config setup](#id1)
 	* 1.1 [Flutter (SDK) Web Oficial](#id1.1)
 	* 1.2 [Chooclatey (Pacakage Managment) terminal comand ](#id1.2)
 	* 1.3 [Android Studio(IDE) ](#id1.3)
